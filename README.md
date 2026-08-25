@@ -1,7 +1,8 @@
 # MedCore Hospital Management System
 A Java and Oracle Database based Hospital Management System featuring both Console and GUI implementations.
 
-**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/)
+**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/) <br>
+**LinkedIn:** [Syed Hassan Ali Bukhari](https://www.linkedin.com/in/syedhassanalibukhari/)
 
 ## Features
 ### Console Version
@@ -85,5 +86,6 @@ For windows make your own Batch File (.bat) from this bash file
 ![Custom SQL query runner](screenshots/06_custom_query.png)
 ## Author
 [Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)  
-BS Computer Science  
-COMSATS University Islamabad
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
